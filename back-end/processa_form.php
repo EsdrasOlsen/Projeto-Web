@@ -5,7 +5,7 @@ $idade = $_GET['idade' ];
 
 echo '<h1>Dados do Usuario</h1>';
 echo '<hr>';
-echo "<p>O usuário $nome tem $idade anos .< /p>";
+echo "<p>O usuário $nome tem $idade anos .</p>";
 
 echo '<a href="http://localhost/udesc/projeto-web/index.html"><button>Home Page</button></a>';
 echo '<button type="button" onclick="javascript:history.back()">Voltar</button>';
